@@ -1,3 +1,17 @@
 1)Merge given two list in to single list, print the data
 2)sort by decending order for above the merged list, print the data
 3)remove duplocats from merged list data, don't use set List and stream api, print the data
+4)Get the highest salary and get the nth highest salary.
+5)Get the male employee data whose age is above 30 and they should be work on HR department
+6)How many male and female employess are working in the organizations
+7)Print number of employess in each department.
+8)What is the average age of male and femal employees in the organization'
+9)Get the details of the highest paid employess in the organization
+10)Get the names of the employess who are joined in the year of 2015
+11)what is the average salary of the each department
+12)Get the details of the youngest male employess in each department
+13)Employee who is having the most working experince in the organization
+14)Who are getting less than 1lpa give the hike for 30%
+15)Get the hogehst employme in the HR department.
+16)Get the list of employess whose age is above 30.
+17)Get the employess data who is resigned in the last year.
