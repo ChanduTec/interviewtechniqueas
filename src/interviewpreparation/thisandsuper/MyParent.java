@@ -30,3 +30,5 @@ public class MyParent {
 		MyParent myParent = new MyParent("AshokIt", 23423.342);
 	}
 }
+
+
